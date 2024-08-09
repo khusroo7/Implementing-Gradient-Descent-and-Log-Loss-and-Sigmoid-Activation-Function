@@ -1,0 +1,1 @@
+# Implementing-Gradient-Descent-and-Log-Loss-and-Sigmoid-Activation-Function
